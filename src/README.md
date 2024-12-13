@@ -1,2 +1,2 @@
 # source code
-- core： vue instance、reactive、vertical dom、
+- core： vue instance、reactive、virtual DOM
